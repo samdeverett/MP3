@@ -7,7 +7,7 @@ The app streamlines the organization of group social events. After creating an a
 Everything is powered on the backend by Firebase: Firebase Authentication manages user sign ups and logins; Firebase Realtime Database contains data on users and socials; and Firebase Storage stores image data (for socials).
 
 <p align="center">
-  <img width="210" src=screenshots.pdf/>
+  <img width="210" src=screenshots.png/>
 </p>
 
 Note: to run the project, you may need to download the cocoapod dependencies listed in the Podfile.
