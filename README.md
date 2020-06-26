@@ -8,7 +8,7 @@ Everything is powered on the backend by Firebase: Firebase Authentication manage
 
 <p align="center">
 <!--   <img width="250" src="screenshots.pdf"> -->
-  <object data="/screenshots.pdf" type="application/pdf" width="100%"></object>
+  <object data="screenshots.pdf" type="application/pdf" width="100%"></object>
 </p>
 
 Note: to run the project, you may need to download the cocoapod dependencies listed in the Podfile.
